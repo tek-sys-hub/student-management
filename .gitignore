@@ -17,3 +17,6 @@ buildNumber.properties
 .classpath
 
 .env
+
+
+src/main/resources/application.properties
